@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "61459658592",
+    "firebase_url": "https://studybuddy-3dbec-default-rtdb.firebaseio.com",
+    "project_id": "studybuddy-3dbec",
+    "storage_bucket": "studybuddy-3dbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61459658592:android:921dff558563c84f1a1005",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG3st9wePDfvRc3lBuWaSsi_ZD3nVlwlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
